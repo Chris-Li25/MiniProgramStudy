@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/slider/slider",
+    "pages/calc/calc",
+    "pages/input/input",
+    "pages/button/button",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "useExtendedLib": {
+    "kbone": true,
+    "weui": true
+  }
+}
